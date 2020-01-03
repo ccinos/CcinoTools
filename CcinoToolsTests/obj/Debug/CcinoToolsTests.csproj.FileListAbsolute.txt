@@ -1,0 +1,25 @@
+C:\Users\syl_\source\repos\CcinoTools\CcinoToolsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\syl_\source\repos\CcinoTools\CcinoToolsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\syl_\source\repos\CcinoTools\CcinoToolsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\syl_\source\repos\CcinoTools\CcinoToolsTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\syl_\source\repos\CcinoTools\CcinoToolsTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\syl_\source\repos\CcinoTools\CcinoToolsTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\syl_\source\repos\CcinoTools\CcinoToolsTests\bin\Debug\CcinoToolsTests.dll
+C:\Users\syl_\source\repos\CcinoTools\CcinoToolsTests\bin\Debug\CcinoToolsTests.pdb
+C:\Users\syl_\source\repos\CcinoTools\CcinoToolsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\syl_\source\repos\CcinoTools\CcinoToolsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\syl_\source\repos\CcinoTools\CcinoToolsTests\bin\Debug\Advanced Combat Tracker.exe
+C:\Users\syl_\source\repos\CcinoTools\CcinoToolsTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\syl_\source\repos\CcinoTools\CcinoToolsTests\bin\Debug\GammaJul.LgLcd.dll
+C:\Users\syl_\source\repos\CcinoTools\CcinoToolsTests\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\syl_\source\repos\CcinoTools\CcinoToolsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\syl_\source\repos\CcinoTools\CcinoToolsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\syl_\source\repos\CcinoTools\CcinoToolsTests\bin\Debug\Advanced Combat Tracker.exe.config
+C:\Users\syl_\source\repos\CcinoTools\CcinoToolsTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\syl_\source\repos\CcinoTools\CcinoToolsTests\obj\Debug\CcinoToolsTests.csprojAssemblyReference.cache
+C:\Users\syl_\source\repos\CcinoTools\CcinoToolsTests\obj\Debug\CcinoToolsTests.csproj.CoreCompileInputs.cache
+C:\Users\syl_\source\repos\CcinoTools\CcinoToolsTests\obj\Debug\CcinoToolsTests.csproj.CopyComplete
+C:\Users\syl_\source\repos\CcinoTools\CcinoToolsTests\obj\Debug\CcinoToolsTests.dll
+C:\Users\syl_\source\repos\CcinoTools\CcinoToolsTests\obj\Debug\CcinoToolsTests.pdb
+C:\Users\syl_\source\repos\CcinoTools\CcinoToolsTests\bin\Debug\CcinoLogsTools.dll
+C:\Users\syl_\source\repos\CcinoTools\CcinoToolsTests\bin\Debug\CcinoLogsTools.pdb

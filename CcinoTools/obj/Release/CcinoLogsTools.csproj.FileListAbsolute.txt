@@ -1,0 +1,3 @@
+C:\Users\syl_\source\repos\CcinoTools\CcinoTools\obj\Release\CcinoTools.CcinoTool.resources
+C:\Users\syl_\source\repos\CcinoTools\CcinoTools\obj\Release\CcinoLogsTools.csproj.GenerateResource.cache
+C:\Users\syl_\source\repos\CcinoTools\CcinoTools\obj\Release\CcinoLogsTools.csproj.CoreCompileInputs.cache

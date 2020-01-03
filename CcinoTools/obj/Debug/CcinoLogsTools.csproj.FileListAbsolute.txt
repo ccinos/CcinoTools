@@ -1,0 +1,16 @@
+C:\Users\syl_\source\repos\CcinoTools\CcinoTools\bin\Debug\Newtonsoft.Json.dll
+C:\Users\syl_\source\repos\CcinoTools\CcinoTools\bin\Debug\GammaJul.LgLcd.dll
+C:\Users\syl_\source\repos\CcinoTools\CcinoTools\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\syl_\source\repos\CcinoTools\CcinoTools\bin\Debug\Advanced Combat Tracker.exe.config
+C:\Users\syl_\source\repos\CcinoTools\CcinoTools\bin\Debug\Newtonsoft.Json.xml
+C:\Users\syl_\source\repos\CcinoTools\CcinoTools\obj\Debug\CcinoTools.CcinoTool.resources
+C:\Users\syl_\source\repos\CcinoTools\CcinoTools\obj\Debug\CcinoLogsTools.csproj.GenerateResource.cache
+C:\Users\syl_\source\repos\CcinoTools\CcinoTools\obj\Debug\CcinoLogsTools.csproj.CoreCompileInputs.cache
+C:\Users\syl_\source\repos\CcinoTools\CcinoTools\obj\Debug\CcinoLogsTools.csproj.CopyComplete
+C:\Users\syl_\source\repos\CcinoTools\CcinoTools\bin\Debug\CcinoLogsTools.dll
+C:\Users\syl_\source\repos\CcinoTools\CcinoTools\bin\Debug\CcinoLogsTools.pdb
+C:\Users\syl_\source\repos\CcinoTools\CcinoTools\obj\Debug\CcinoLogsTools.dll
+C:\Users\syl_\source\repos\CcinoTools\CcinoTools\obj\Debug\CcinoLogsTools.pdb
+C:\Users\syl_\source\repos\CcinoTools\CcinoTools\obj\Debug\CcinoLogsTools.csprojAssemblyReference.cache
+C:\Users\syl_\source\repos\CcinoTools\CcinoTools\obj\Debug\CcinoTools.LogsShowForm.resources
+C:\Users\syl_\source\repos\CcinoTools\CcinoTools\obj\Debug\CcinoTools.Properties.Resources.resources

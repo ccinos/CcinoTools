@@ -1,0 +1,167 @@
+﻿Application-Start 2019-09-27T11:15:08 (v3.3.4     Release: 259 | CLR v4.0.30319.42000 | OS Microsoft Windows NT 6.2.9200.0) 328F
+***** 2019-09-27T11:15:10 - Entering InitACT
+***** 2019-09-27T11:15:10 - No Config File
+***** 2019-09-27T11:15:10 - Exiting InitACT
+***** 2019-09-27T11:15:29 - Enabling plugin: C:\Users\syl_\source\repos\CcinoTools\CcinoTools\bin\Debug\CcinoTools.dll
+***** 2019-09-27T11:15:35 - Enabling plugin: C:\Users\syl_\source\repos\CcinoTools\CcinoTools\bin\Debug\CcinoTools.dll
+Application-Start 2019-09-27T11:17:39 (v3.3.4     Release: 259 | CLR v4.0.30319.42000 | OS Microsoft Windows NT 6.2.9200.0) 8385
+***** 2019-09-27T11:17:40 - Entering InitACT
+***** 2019-09-27T11:17:40 - Entering LoadNewSettings
+***** 2019-09-27T11:17:40 - Config loading plugin from: C:\Users\syl_\source\repos\CcinoTools\CcinoTools\bin\Debug\CcinoTools.dll
+***** 2019-09-27T11:17:40 - Enabling plugin: C:\Users\syl_\source\repos\CcinoTools\CcinoTools\bin\Debug\CcinoTools.dll
+***** 2019-09-27T11:17:40 - Exiting LoadNewSettings
+***** 2019-09-27T11:17:40 - 
+System.ArgumentException: 路径的形式不合法。
+   在 System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   在 System.IO.Path.GetFullPathInternal(String path)
+   在 System.IO.FileInfo.Init(String fileName, Boolean checkHost)
+   在 Advanced_Combat_Tracker.FormActMain.ResetCheckLogs()
+ 在 Advanced_Combat_Tracker.FormActMain.WriteExceptionLog(Exception ex, String MoreInfo)
+   在 Advanced_Combat_Tracker.FormActMain.ResetCheckLogs()
+   在 Advanced_Combat_Tracker.FormActMain.InitACT()
+   在 Advanced_Combat_Tracker.ActLoader..ctor(String[] args)
+   在 Advanced_Combat_Tracker.ActLoader.Main(String[] args)
+*****
+***** 2019-09-27T11:17:40 - BeforeLogLineRead is not handled
+***** 2019-09-27T11:17:43 - Checking for program updates
+***** 2019-09-27T11:17:43 - Exiting InitACT: 3105.87
+Application-Close 2019-09-27T11:17:49
+***** 2019-09-27T11:17:49 - Entering SaveNewSettings
+***** 2019-09-27T11:17:50 - Exiting SaveNewSettings: 70
+Application-Start 2019-09-27T11:22:33 (v3.3.4     Release: 259 | CLR v4.0.30319.42000 | OS Microsoft Windows NT 6.2.9200.0) 37D5
+***** 2019-09-27T11:22:34 - Entering InitACT
+***** 2019-09-27T11:22:35 - Entering LoadNewSettings
+***** 2019-09-27T11:22:35 - Config loading plugin from: C:\Users\syl_\source\repos\CcinoTools\CcinoTools\bin\Debug\CcinoTools.dll
+***** 2019-09-27T11:22:35 - Enabling plugin: C:\Users\syl_\source\repos\CcinoTools\CcinoTools\bin\Debug\CcinoTools.dll
+***** 2019-09-27T11:22:35 - Exiting LoadNewSettings
+***** 2019-09-27T11:22:35 - 
+System.ArgumentException: 路径的形式不合法。
+   在 System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   在 System.IO.Path.GetFullPathInternal(String path)
+   在 System.IO.FileInfo.Init(String fileName, Boolean checkHost)
+   在 Advanced_Combat_Tracker.FormActMain.ResetCheckLogs()
+ 在 Advanced_Combat_Tracker.FormActMain.WriteExceptionLog(Exception ex, String MoreInfo)
+   在 Advanced_Combat_Tracker.FormActMain.ResetCheckLogs()
+   在 Advanced_Combat_Tracker.FormActMain.InitACT()
+   在 Advanced_Combat_Tracker.ActLoader..ctor(String[] args)
+   在 Advanced_Combat_Tracker.ActLoader.Main(String[] args)
+*****
+***** 2019-09-27T11:22:35 - BeforeLogLineRead is not handled
+***** 2019-09-27T11:22:38 - Checking for program updates
+***** 2019-09-27T11:22:38 - Exiting InitACT: 3690.79
+Application-Close 2019-09-27T11:22:50
+***** 2019-09-27T11:22:50 - Entering SaveNewSettings
+***** 2019-09-27T11:22:50 - Exiting SaveNewSettings: 82
+Application-Start 2019-09-27T11:25:22 (v3.3.4     Release: 259 | CLR v4.0.30319.42000 | OS Microsoft Windows NT 6.2.9200.0) 857C
+***** 2019-09-27T11:25:23 - Entering InitACT
+***** 2019-09-27T11:25:23 - Entering LoadNewSettings
+***** 2019-09-27T11:25:23 - Config loading plugin from: C:\Users\syl_\source\repos\CcinoTools\CcinoTools\bin\Debug\CcinoTools.dll
+***** 2019-09-27T11:25:23 - Enabling plugin: C:\Users\syl_\source\repos\CcinoTools\CcinoTools\bin\Debug\CcinoTools.dll
+***** 2019-09-27T11:25:23 - Exiting LoadNewSettings
+***** 2019-09-27T11:25:23 - 
+System.ArgumentException: 路径的形式不合法。
+   在 System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   在 System.IO.Path.GetFullPathInternal(String path)
+   在 System.IO.FileInfo.Init(String fileName, Boolean checkHost)
+   在 Advanced_Combat_Tracker.FormActMain.ResetCheckLogs()
+ 在 Advanced_Combat_Tracker.FormActMain.WriteExceptionLog(Exception ex, String MoreInfo)
+   在 Advanced_Combat_Tracker.FormActMain.ResetCheckLogs()
+   在 Advanced_Combat_Tracker.FormActMain.InitACT()
+   在 Advanced_Combat_Tracker.ActLoader..ctor(String[] args)
+   在 Advanced_Combat_Tracker.ActLoader.Main(String[] args)
+*****
+***** 2019-09-27T11:25:23 - BeforeLogLineRead is not handled
+***** 2019-09-27T11:25:23 - Checking for program updates
+***** 2019-09-27T11:25:23 - Exiting InitACT: 395.17
+Application-Close 2019-09-27T11:25:31
+***** 2019-09-27T11:25:31 - Entering SaveNewSettings
+***** 2019-09-27T11:25:31 - Exiting SaveNewSettings: 78
+Application-Start 2019-09-27T11:26:28 (v3.3.4     Release: 259 | CLR v4.0.30319.42000 | OS Microsoft Windows NT 6.2.9200.0) 01B1
+***** 2019-09-27T11:26:29 - Entering InitACT
+***** 2019-09-27T11:26:29 - Entering LoadNewSettings
+***** 2019-09-27T11:26:29 - Config loading plugin from: C:\Users\syl_\source\repos\CcinoTools\CcinoTools\bin\Debug\CcinoTools.dll
+***** 2019-09-27T11:26:29 - Enabling plugin: C:\Users\syl_\source\repos\CcinoTools\CcinoTools\bin\Debug\CcinoTools.dll
+***** 2019-09-27T11:26:29 - Exiting LoadNewSettings
+***** 2019-09-27T11:26:29 - 
+System.ArgumentException: 路径的形式不合法。
+   在 System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   在 System.IO.Path.GetFullPathInternal(String path)
+   在 System.IO.FileInfo.Init(String fileName, Boolean checkHost)
+   在 Advanced_Combat_Tracker.FormActMain.ResetCheckLogs()
+ 在 Advanced_Combat_Tracker.FormActMain.WriteExceptionLog(Exception ex, String MoreInfo)
+   在 Advanced_Combat_Tracker.FormActMain.ResetCheckLogs()
+   在 Advanced_Combat_Tracker.FormActMain.InitACT()
+   在 Advanced_Combat_Tracker.ActLoader..ctor(String[] args)
+   在 Advanced_Combat_Tracker.ActLoader.Main(String[] args)
+*****
+***** 2019-09-27T11:26:29 - BeforeLogLineRead is not handled
+***** 2019-09-27T11:26:29 - Checking for program updates
+***** 2019-09-27T11:26:29 - Exiting InitACT: 376.35
+Application-Start 2019-09-27T11:35:32 (v3.3.4     Release: 259 | CLR v4.0.30319.42000 | OS Microsoft Windows NT 6.2.9200.0) 086C
+***** 2019-09-27T11:35:34 - Entering InitACT
+***** 2019-09-27T11:35:34 - Entering LoadNewSettings
+***** 2019-09-27T11:35:34 - Config loading plugin from: C:\Users\syl_\source\repos\CcinoTools\CcinoTools\bin\Debug\CcinoTools.dll
+***** 2019-09-27T11:35:34 - Enabling plugin: C:\Users\syl_\source\repos\CcinoTools\CcinoTools\bin\Debug\CcinoTools.dll
+***** 2019-09-27T11:35:34 - Exiting LoadNewSettings
+***** 2019-09-27T11:35:34 - 
+System.ArgumentException: 路径的形式不合法。
+   在 System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   在 System.IO.Path.GetFullPathInternal(String path)
+   在 System.IO.FileInfo.Init(String fileName, Boolean checkHost)
+   在 Advanced_Combat_Tracker.FormActMain.ResetCheckLogs()
+ 在 Advanced_Combat_Tracker.FormActMain.WriteExceptionLog(Exception ex, String MoreInfo)
+   在 Advanced_Combat_Tracker.FormActMain.ResetCheckLogs()
+   在 Advanced_Combat_Tracker.FormActMain.InitACT()
+   在 Advanced_Combat_Tracker.ActLoader..ctor(String[] args)
+   在 Advanced_Combat_Tracker.ActLoader.Main(String[] args)
+*****
+***** 2019-09-27T11:35:34 - BeforeLogLineRead is not handled
+***** 2019-09-27T11:35:34 - Checking for program updates
+***** 2019-09-27T11:35:34 - Exiting InitACT: 398.00
+Application-Close 2019-09-27T11:36:06
+***** 2019-09-27T11:36:06 - Entering SaveNewSettings
+***** 2019-09-27T11:36:06 - Exiting SaveNewSettings: 78
+Application-Start 2020-01-02T11:49:32 (v3.3.4     Release: 259 | CLR v4.0.30319.42000 | OS Microsoft Windows NT 6.2.9200.0) 562A
+***** 2020-01-02T11:49:33 - Entering InitACT
+***** 2020-01-02T11:49:33 - Entering LoadNewSettings
+***** 2020-01-02T11:49:33 - Config loading plugin from: C:\Users\syl_\source\repos\CcinoTools\CcinoTools\bin\Debug\CcinoTools.dll
+***** 2020-01-02T11:49:33 - Enabling plugin: C:\Users\syl_\source\repos\CcinoTools\CcinoTools\bin\Debug\CcinoTools.dll
+***** 2020-01-02T11:49:33 - Exiting LoadNewSettings
+***** 2020-01-02T11:49:33 - 
+System.ArgumentException: 路径的形式不合法。
+   在 System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   在 System.IO.Path.GetFullPathInternal(String path)
+   在 System.IO.FileInfo.Init(String fileName, Boolean checkHost)
+   在 Advanced_Combat_Tracker.FormActMain.ResetCheckLogs()
+ 在 Advanced_Combat_Tracker.FormActMain.WriteExceptionLog(Exception ex, String MoreInfo)
+   在 Advanced_Combat_Tracker.FormActMain.ResetCheckLogs()
+   在 Advanced_Combat_Tracker.FormActMain.InitACT()
+   在 Advanced_Combat_Tracker.ActLoader..ctor(String[] args)
+   在 Advanced_Combat_Tracker.ActLoader.Main(String[] args)
+*****
+***** 2020-01-02T11:49:33 - BeforeLogLineRead is not handled
+***** 2020-01-02T11:49:33 - Checking for program updates
+***** 2020-01-02T11:49:34 - Exiting InitACT: 375.00
+Application-Start 2020-01-02T13:05:00 (v3.3.4     Release: 259 | CLR v4.0.30319.42000 | OS Microsoft Windows NT 6.2.9200.0) 3F16
+***** 2020-01-02T13:05:01 - Entering InitACT
+Application-Start 2020-01-02T13:11:16 (v3.3.4     Release: 259 | CLR v4.0.30319.42000 | OS Microsoft Windows NT 6.2.9200.0) 13CE
+***** 2020-01-02T13:11:17 - Entering InitACT
+***** 2020-01-02T13:11:17 - Entering LoadNewSettings
+***** 2020-01-02T13:11:17 - Config loading plugin from: C:\Users\syl_\source\repos\CcinoTools\CcinoTools\bin\Debug\CcinoTools.dll
+***** 2020-01-02T13:11:17 - Enabling plugin: C:\Users\syl_\source\repos\CcinoTools\CcinoTools\bin\Debug\CcinoTools.dll
+***** 2020-01-02T13:11:17 - Exiting LoadNewSettings
+***** 2020-01-02T13:11:17 - 
+System.ArgumentException: 路径的形式不合法。
+   在 System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   在 System.IO.Path.GetFullPathInternal(String path)
+   在 System.IO.FileInfo.Init(String fileName, Boolean checkHost)
+   在 Advanced_Combat_Tracker.FormActMain.ResetCheckLogs()
+ 在 Advanced_Combat_Tracker.FormActMain.WriteExceptionLog(Exception ex, String MoreInfo)
+   在 Advanced_Combat_Tracker.FormActMain.ResetCheckLogs()
+   在 Advanced_Combat_Tracker.FormActMain.InitACT()
+   在 Advanced_Combat_Tracker.ActLoader..ctor(String[] args)
+   在 Advanced_Combat_Tracker.ActLoader.Main(String[] args)
+*****
+***** 2020-01-02T13:11:17 - BeforeLogLineRead is not handled
+***** 2020-01-02T13:11:17 - Checking for program updates
+***** 2020-01-02T13:11:17 - Exiting InitACT: 334.11
