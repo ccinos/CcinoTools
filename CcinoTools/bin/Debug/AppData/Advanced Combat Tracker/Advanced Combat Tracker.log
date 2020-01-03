@@ -165,3 +165,33 @@ System.ArgumentException: 路径的形式不合法。
 ***** 2020-01-02T13:11:17 - BeforeLogLineRead is not handled
 ***** 2020-01-02T13:11:17 - Checking for program updates
 ***** 2020-01-02T13:11:17 - Exiting InitACT: 334.11
+Application-Start 2020-01-04T07:10:22 (v3.3.4     Release: 259 | CLR v4.0.30319.42000 | OS Microsoft Windows NT 6.2.9200.0) B798
+***** 2020-01-04T07:10:24 - Entering InitACT
+***** 2020-01-04T07:10:24 - Entering LoadNewSettings
+***** 2020-01-04T07:10:24 - Config loading plugin from: C:\Users\syl_\source\repos\CcinoTools\CcinoTools\bin\Debug\CcinoTools.dll
+***** 2020-01-04T07:10:24 - Loading plugin from config
+System.IO.IOException: C:\Users\syl_\source\repos\CcinoTools\CcinoTools\bin\Debug\CcinoTools.dll does not exist.
+ 在 Advanced_Combat_Tracker.FormActMain.WriteExceptionLog(Exception ex, String MoreInfo)
+   在 Advanced_Combat_Tracker.FormActMain.AddPluginPanel(String PluginPath, Boolean SuppressErrors)
+   在 Advanced_Combat_Tracker.FormActMain.LoadXmlActPlugins(XmlTextReader xReader)
+   在 Advanced_Combat_Tracker.FormActMain.LoadNewSettings(XmlTextReader xReader)
+   在 Advanced_Combat_Tracker.FormActMain.InitACT()
+   在 Advanced_Combat_Tracker.ActLoader..ctor(String[] args)
+   在 Advanced_Combat_Tracker.ActLoader.Main(String[] args)
+*****
+***** 2020-01-04T07:10:24 - Exiting LoadNewSettings
+***** 2020-01-04T07:10:24 - 
+System.ArgumentException: 路径的形式不合法。
+   在 System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   在 System.IO.Path.GetFullPathInternal(String path)
+   在 System.IO.FileInfo.Init(String fileName, Boolean checkHost)
+   在 Advanced_Combat_Tracker.FormActMain.ResetCheckLogs()
+ 在 Advanced_Combat_Tracker.FormActMain.WriteExceptionLog(Exception ex, String MoreInfo)
+   在 Advanced_Combat_Tracker.FormActMain.ResetCheckLogs()
+   在 Advanced_Combat_Tracker.FormActMain.InitACT()
+   在 Advanced_Combat_Tracker.ActLoader..ctor(String[] args)
+   在 Advanced_Combat_Tracker.ActLoader.Main(String[] args)
+*****
+***** 2020-01-04T07:10:24 - BeforeLogLineRead is not handled
+***** 2020-01-04T07:10:24 - Checking for program updates
+***** 2020-01-04T07:10:24 - Exiting InitACT: 320.14
