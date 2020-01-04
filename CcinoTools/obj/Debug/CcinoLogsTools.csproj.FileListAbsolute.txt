@@ -12,5 +12,4 @@ C:\Users\syl_\source\repos\CcinoTools\CcinoTools\bin\Debug\CcinoLogsTools.pdb
 C:\Users\syl_\source\repos\CcinoTools\CcinoTools\obj\Debug\CcinoLogsTools.dll
 C:\Users\syl_\source\repos\CcinoTools\CcinoTools\obj\Debug\CcinoLogsTools.pdb
 C:\Users\syl_\source\repos\CcinoTools\CcinoTools\obj\Debug\CcinoLogsTools.csprojAssemblyReference.cache
-C:\Users\syl_\source\repos\CcinoTools\CcinoTools\obj\Debug\CcinoTools.LogsShowForm.resources
 C:\Users\syl_\source\repos\CcinoTools\CcinoTools\obj\Debug\CcinoTools.Properties.Resources.resources
