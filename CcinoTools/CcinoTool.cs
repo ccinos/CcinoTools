@@ -480,6 +480,7 @@ namespace CcinoTools {
       //xmlSettings.AddControlSetting(tbLogs.Name, tbLogs);
       xmlSettings.AddControlSetting(tbApiKey.Name, tbApiKey);
       xmlSettings.AddControlSetting(cbZones.Name, cbZones);
+      xmlSettings.AddControlSetting(cbEnable.Name, cbEnable);
       xmlSettings.AddControlSetting(cbEncounters.Name, cbEncounters);
       xmlSettings.AddControlSetting(cbLocalServer.Name, cbLocalServer);
       xmlSettings.AddControlSetting(tbTestName.Name, tbTestName);
